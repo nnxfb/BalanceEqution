@@ -1,0 +1,1 @@
+g++ main.cpp LinearEqutionsSolver.cpp QNumber.cpp Substance.cpp -o BalanceEqution
