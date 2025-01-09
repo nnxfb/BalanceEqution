@@ -1,6 +1,8 @@
 # 化学方程式配平
 
-输入一个未配平的化学方程式，输出配平的化学方程式（可能有多个）
+基于高斯消元法，实现化学方程式配平
+
+可以处理多个方程式叠加的情况
 
 ~~~bash
 Please input an unbalanced chemical eqution:
